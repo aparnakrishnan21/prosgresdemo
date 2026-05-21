@@ -30,4 +30,4 @@ def create_user_table():
         finally:
             cursor.close()
             conn.close() 
-create_user_table()
+#create_user_table()
