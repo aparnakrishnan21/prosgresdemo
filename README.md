@@ -8,3 +8,7 @@
 #
 #     $ conda deactivate
 # pip install -r requirents.txt
+
+# git add .
+# git commit -m "Updated project files"
+# git push
